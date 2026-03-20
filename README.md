@@ -61,7 +61,6 @@ portfolio/
 ├── README.md           # This file
 │
 ├── images/             # Project screenshots & assets
-├── assets/             # Additional static assets
 └── resume/             # Resume PDF file
     └── Nagaraju_Kumar_Resume.pdf
 ```
